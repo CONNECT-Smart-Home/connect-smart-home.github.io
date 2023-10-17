@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[6074],{8606:o=>{o.exports=JSON.parse('{"label":"Control","permalink":"/docs/tags/control","allTagsPath":"/docs/tags","count":1,"items":[{"id":"blocks/y1","title":"Y1 Smart Controller","description":"The main controller of your CONNECT Smart home.","permalink":"/docs/blocks/y1"}]}')}}]);

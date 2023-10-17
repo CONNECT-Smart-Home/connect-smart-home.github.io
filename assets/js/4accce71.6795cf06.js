@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[7506],{5565:e=>{e.exports=JSON.parse('{"label":"LED","permalink":"/docs/tags/led","allTagsPath":"/docs/tags","count":1,"items":[{"id":"blocks/w4","title":"W4 LED driver","description":"Four-channel LED driver","permalink":"/docs/blocks/w4"}]}')}}]);

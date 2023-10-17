@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[2892],{7825:e=>{e.exports=JSON.parse('{"label":"Dimmer","permalink":"/docs/tags/dimmer","allTagsPath":"/docs/tags","count":1,"items":[{"id":"blocks/dt1","title":"DT1 Dimmer triac","description":"Single-channel triac dimmer","permalink":"/docs/blocks/dt1"}]}')}}]);

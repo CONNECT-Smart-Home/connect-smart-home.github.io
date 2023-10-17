@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[2905],{7090:e=>{e.exports=JSON.parse('{"label":"DMX","permalink":"/docs/tags/dmx","allTagsPath":"/docs/tags","count":1,"items":[{"id":"blocks/dmx","title":"DMX Interface","description":"One-channel DMX512 interface extention","permalink":"/docs/blocks/dmx"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[881],{1836:s=>{s.exports=JSON.parse('{"label":"Modbus","permalink":"/docs/tags/modbus","allTagsPath":"/docs/tags","count":1,"items":[{"id":"blocks/rs485","title":"RS485 Interface (Modbus RTU)","description":"One-channel RS485 interface extention","permalink":"/docs/blocks/rs485"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[4099],{3259:c=>{c.exports=JSON.parse('{"label":"WW (warm/cold)","permalink":"/docs/tags/ww-warm-cold","allTagsPath":"/docs/tags","count":1,"items":[{"id":"blocks/w4","title":"W4 LED driver","description":"Four-channel LED driver","permalink":"/docs/blocks/w4"}]}')}}]);
