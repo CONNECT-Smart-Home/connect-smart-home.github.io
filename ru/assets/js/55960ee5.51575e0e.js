@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconnect_docs=self.webpackChunkconnect_docs||[]).push([[4121],{8070:s=>{s.exports=JSON.parse('[{"label":"RS485","permalink":"/ru/docs/tags/rs-485","count":1},{"label":"Digital inputs","permalink":"/ru/docs/tags/digital-inputs","count":2}]')}}]);
